@@ -12,7 +12,7 @@ export default {
   name: 'Home',
   components: {
     HomePages
-  }
+  },
 }
 </script>
 
