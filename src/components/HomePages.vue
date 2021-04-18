@@ -7,7 +7,7 @@
           <p>{{homeWorlds[index].name}}</p>
       </div>
       <div class="pagination">
-        <b-pagination-nav pills size="sm" number-of-pages="10" base-url="#"></b-pagination-nav>
+        <b-pagination-nav pills  number-of-pages="10" base-url="#"></b-pagination-nav>
       </div>
     </div>
     <div class="img" v-else>
@@ -88,7 +88,7 @@ export default {
   }
 
   .pagination{
-    margin-top: 134%;
+    margin-top: 131%;
     margin-left: 25%;
   }
   
